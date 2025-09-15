@@ -1,0 +1,4 @@
+employee-salary-insights/
+│── README.md
+│── employees.csv
+└── employee_analysis.py
