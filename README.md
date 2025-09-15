@@ -18,4 +18,4 @@ This repository contains **two mini data analytics projects** built with Python.
 ## Skills Demonstrated
 - Python (Pandas, Matplotlib)
 - Data cleaning & analysis
-- Business insightsct for data analysis internship 
+- Business insightsct for data analysis internship
